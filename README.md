@@ -60,19 +60,18 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ---
 
+---
+
 ## 📸 Capturas del sistema SIGIV
 
 ### 🔐 Login
-![Login](https://https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/login.png?raw=true/login.png?raw=true)
+![Login](https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/login.png?raw=true)
 
 ### 📊 Dashboard
-![Dashboard](https://TU_LINK/dashboard.png?raw=true)
+![Dashboard](https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/dashboard.png?raw=true)
 
 ### 📦 Productos
-![Productos](https://TU_LINK/products.png?raw=true)
+![Products](https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/products.png?raw=true)
 
 ### 🏷 Categorías
-![Categorías](https://TU_LINK/categories.png?raw=true)
-
-### 📄 Exportación PDF
-![PDF](https://TU_LINK/pdf.png?raw=true)
+![Categories](https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/categories.png?raw=true)
