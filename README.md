@@ -63,7 +63,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## 📸 Capturas del sistema SIGIV
 
 ### 🔐 Login
-![Login](https://TU_LINK/login.png?raw=true)
+![Login](https://https://github.com/arrietaramirezjarol9-ui/smart-inventory-management-system/blob/main/login.png?raw=true/login.png?raw=true)
 
 ### 📊 Dashboard
 ![Dashboard](https://TU_LINK/dashboard.png?raw=true)
